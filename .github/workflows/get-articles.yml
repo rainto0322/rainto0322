@@ -1,0 +1,42 @@
+name: Fetch Latest Articles
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up environment
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y curl xmlstarlet
+
+    - name: Fetch XML data
+      run: |
+        CONT=$(curl -s "https://rainto.top/index.xml")
+        titles=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/title" -n))
+        links=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/link" -n))
+        echo "<!-- ARTICLE_LIST -->" > temp.txt
+        for i in $(seq 0 $(( ${#titles[@]} - 1 ))); do
+          echo "- **[${titles[$i]}](${links[$i]})**" >> temp.txt
+        done
+        sed -i '/<!-- ARTICLE_LIST -->/,$d' README.md
+        cat temp.txt >> README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "rainto0322@github.com"
+        git config --local user.name "rainto0322"
+        git add README.md
+        git commit -m "🌷Update README with blog from rainto.top"
+        git push

@@ -31,7 +31,7 @@ jobs:
         echo "<!-- ARTICLE_LIST -->" > temp.txt
         echo "> Last update: $current_date" >> temp.txt
         for i in $(seq 0 $(( ${#titles[@]} - 1 ))); do
-          echo "- *${date}* - **[${titles[$i]}](${links[$i]})**" >> temp.txt
+          echo "- *${date[$i]}* - **[${titles[$i]}](${links[$i]})**" >> temp.txt
         done
         sed -i '/<!-- ARTICLE_LIST -->/,$d' README.md
         cat temp.txt >> README.md

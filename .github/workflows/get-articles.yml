@@ -23,12 +23,15 @@ jobs:
 
     - name: Fetch XML data
       run: |
+        current_date=$(date +"%Y-%m-%d")
         CONT=$(curl -s "https://rainto.top/index.xml")
         titles=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/title" -n))
         links=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/link" -n))
+        date=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/pubDate" -n))
         echo "<!-- ARTICLE_LIST -->" > temp.txt
+        echo "> Last update: $current_date" >> temp.txt
         for i in $(seq 0 $(( ${#titles[@]} - 1 ))); do
-          echo "- **[${titles[$i]}](${links[$i]})**" >> temp.txt
+          echo "- *${date}* - **[${titles[$i]}](${links[$i]})**" >> temp.txt
         done
         sed -i '/<!-- ARTICLE_LIST -->/,$d' README.md
         cat temp.txt >> README.md

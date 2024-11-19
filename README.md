@@ -19,7 +19,7 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2024-11-18
+> Last update: 2024-11-19
 - *Oct-06-2024* - **[「屎山代码风格指南」](https://rainto.top/posts/note/20241106%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97/)**
 - *Oct-01-2024* - **[不能停止向前的人生](https://rainto.top/posts/essay/20241001%E4%B8%8D%E8%83%BD%E5%81%9C%E6%AD%A2%E5%90%91%E5%89%8D%E7%9A%84%E4%BA%BA%E7%94%9F/)**
 - *Sep-28-2024* - **[办公室坐牢记](https://rainto.top/posts/member/20240928%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%9D%90%E7%89%A2%E8%AE%B0/)**

@@ -24,7 +24,7 @@ jobs:
     - name: Fetch XML data
       run: |
         current_date=$(date +"%Y-%m-%d")
-        CONT=$(curl -s "https://rainto.top/index.xml")
+        CONT=$(curl -s "https://www.rainto.top/index.xml")
         titles=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/title" -n))
         links=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/link" -n))
         date=($(echo "$CONT" | xmlstarlet sel -t -v "//item[position()<=5]/pubDate" -n))

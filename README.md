@@ -3,9 +3,8 @@
 <p align="left">
 
   [me](https://rainto.top/about) .
-  [blog](https://rainto.top/posts) .
-  [blog](https://rainto.top/posts) .
-  [ins](https://www.instagram.com/lorret9/) .
+  [blog](https://rainto.top/posts) . 
+ [ins](https://www.instagram.com/lorret9/) .
   [qicq](https://wpa.qq.com/msgrd?v=3&uin=693739563&site=qq&menu=yes) .
   [email](mailto:rainto0322@foxmail.com?subject=Hello)
 </p>

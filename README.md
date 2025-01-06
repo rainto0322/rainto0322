@@ -18,7 +18,7 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-01-05
+> Last update: 2025-01-06
 - *Dec-30-2024* - **[2024是以为记](https://rainto.top/posts/member/20241230%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)**
 - *Dec-12-2024* - **[博客作者的九个问题](https://rainto.top/posts/member/20241212%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B9%9D%E4%B8%AA%E9%97%AE%E9%A2%98/)**
 - *Oct-01-2024* - **[不能停止向前的人生](https://rainto.top/posts/essay/20241001%E4%B8%8D%E8%83%BD%E5%81%9C%E6%AD%A2%E5%90%91%E5%89%8D%E7%9A%84%E4%BA%BA%E7%94%9F/)**

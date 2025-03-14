@@ -18,7 +18,7 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-03-13
+> Last update: 2025-03-14
 - *Mar-04-2025* - **[世界大同](https://rainto.top/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**
 - *Jan-20-2025* - **[爱你如黄昏般](https://rainto.top/posts/essay/20250120%E7%88%B1%E4%BD%A0%E5%A6%82%E9%BB%84%E6%98%8F%E8%88%AC/)**
 - *Jan-16-2025* - **[无法停止写作](https://rainto.top/posts/essay/20250117%E6%97%A0%E6%B3%95%E5%81%9C%E6%AD%A2%E5%86%99%E4%BD%9C/)**

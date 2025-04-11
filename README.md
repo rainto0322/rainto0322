@@ -18,7 +18,7 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-04-10
+> Last update: 2025-04-11
 - *Mar-19-2025* - **[被风洞穿](https://rainto.top/posts/essay/20250319%E8%A2%AB%E9%A3%8E%E6%B4%9E%E7%A9%BF/)**
 - *Mar-04-2025* - **[世界大同](https://rainto.top/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**
 - *Jan-20-2025* - **[爱你如黄昏般](https://rainto.top/posts/essay/20250120%E7%88%B1%E4%BD%A0%E5%A6%82%E9%BB%84%E6%98%8F%E8%88%AC/)**

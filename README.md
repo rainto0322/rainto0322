@@ -18,7 +18,7 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-06-25
+> Last update: 2025-06-26
 - *Apr-11-2025* - **[JavaScript异步新写法](https://rainto.top/posts/note/20250411js%E5%BC%82%E6%AD%A5%E6%96%B0%E5%86%99%E6%B3%95/)**
 - *Mar-19-2025* - **[被风洞穿](https://rainto.top/posts/essay/20250319%E8%A2%AB%E9%A3%8E%E6%B4%9E%E7%A9%BF/)**
 - *Mar-04-2025* - **[世界大同](https://rainto.top/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**

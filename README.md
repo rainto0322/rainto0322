@@ -18,9 +18,9 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-08-12
+> Last update: 2025-08-13
+- *Aug-11-2025* - **[字体自适应宽度](https://rainto.top/posts/note/20250811%E5%AD%97%E4%BD%93%E8%87%AA%E9%80%82%E5%BA%94%E5%AE%BD%E5%BA%A6/)**
 - *Apr-11-2025* - **[JavaScript异步新写法](https://rainto.top/posts/note/20250411js%E5%BC%82%E6%AD%A5%E6%96%B0%E5%86%99%E6%B3%95/)**
 - *Mar-19-2025* - **[被风洞穿](https://rainto.top/posts/essay/20250319%E8%A2%AB%E9%A3%8E%E6%B4%9E%E7%A9%BF/)**
 - *Mar-04-2025* - **[世界大同](https://rainto.top/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**
 - *Jan-20-2025* - **[爱你如黄昏般](https://rainto.top/posts/essay/20250120%E7%88%B1%E4%BD%A0%E5%A6%82%E9%BB%84%E6%98%8F%E8%88%AC/)**
-- *Jan-16-2025* - **[无法停止写作](https://rainto.top/posts/essay/20250117%E6%97%A0%E6%B3%95%E5%81%9C%E6%AD%A2%E5%86%99%E4%BD%9C/)**

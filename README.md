@@ -18,7 +18,7 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-11-07
+> Last update: 2025-11-08
 - *Sep-28-2025* - **[我与O记的前世今生](https://rainto.top/posts/member/20250928%E6%88%91%E4%B8%8Eo%E8%AE%B0%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/)**
 - *Mar-19-2025* - **[被风洞穿](https://rainto.top/posts/essay/20250319%E8%A2%AB%E9%A3%8E%E6%B4%9E%E7%A9%BF/)**
 - *Mar-04-2025* - **[世界大同](https://rainto.top/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**

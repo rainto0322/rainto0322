@@ -18,9 +18,9 @@
 
 ### Recent blogs
 <!-- ARTICLE_LIST -->
-> Last update: 2025-11-22
-- *Sep-28-2025* - **[我与O记的前世今生](https://rainto.top/posts/member/20250928%E6%88%91%E4%B8%8Eo%E8%AE%B0%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/)**
-- *Mar-19-2025* - **[被风洞穿](https://rainto.top/posts/essay/20250319%E8%A2%AB%E9%A3%8E%E6%B4%9E%E7%A9%BF/)**
-- *Mar-04-2025* - **[世界大同](https://rainto.top/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**
-- *Jan-20-2025* - **[爱你如黄昏般](https://rainto.top/posts/essay/20250120%E7%88%B1%E4%BD%A0%E5%A6%82%E9%BB%84%E6%98%8F%E8%88%AC/)**
-- *Jan-16-2025* - **[无法停止写作](https://rainto.top/posts/essay/20250117%E6%97%A0%E6%B3%95%E5%81%9C%E6%AD%A2%E5%86%99%E4%BD%9C/)**
+> Last update: 2025-11-23
+- *Nov-22-2025* - **[顺颂时绥](http://localhost:4000/posts/member/20251122%E9%A1%BA%E9%A2%82%E6%97%B6%E7%BB%A5/)**
+- *Sep-28-2025* - **[我与O记的前世今生](http://localhost:4000/posts/member/20250928%E6%88%91%E4%B8%8Eo%E8%AE%B0%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/)**
+- *Mar-19-2025* - **[被风洞穿](http://localhost:4000/posts/essay/20250319%E8%A2%AB%E9%A3%8E%E6%B4%9E%E7%A9%BF/)**
+- *Mar-04-2025* - **[世界大同](http://localhost:4000/posts/member/20250304%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%8C/)**
+- *Jan-20-2025* - **[爱你如黄昏般](http://localhost:4000/posts/essay/20250120%E7%88%B1%E4%BD%A0%E5%A6%82%E9%BB%84%E6%98%8F%E8%88%AC/)**
